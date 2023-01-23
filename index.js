@@ -8,6 +8,6 @@ app.get("/",function(req,res){
     })
 })
 
-app.listen(3000,function(){
-    console.log("Server Running 3000")
+app.listen(3003,function(){
+    console.log("Server Running 3003")
 })
